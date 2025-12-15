@@ -12,7 +12,7 @@ Advanced Energy Manipulation (AEM) executes corrective action under Divine permi
 ## Authority
 Spiritual Technology is an applied framework architected by Riz (HEALERRIZ).
 Diagnostic Intuitive Healing (DIH) and Advanced Energy Manipulation (AEM) are original methodologies operating within this framework.
-Corrective execution is governed by lawful authority and is not performed through channeling, ritual or personal power claims.
+Corrective execution is governed by lawful authority and is not performed through channeling, ritual or personal power assertion.
 
 ## Scope of This Repository
 ## Canonical References
