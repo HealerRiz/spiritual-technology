@@ -10,5 +10,9 @@ Diagnostic Intuitive Healing (DIH) performs precise nonlocal diagnostic percepti
 Advanced Energy Manipulation (AEM) executes corrective action under Divine permission.
 
 ## Authority
+Spiritual Technology is an applied framework architected by Riz (HEALERRIZ).
+Diagnostic Intuitive Healing (DIH) and Advanced Energy Manipulation (AEM) are original methodologies operating within this framework.
+Corrective execution is governed by lawful authority and is not performed through channeling, ritual or personal power claims.
+
 ## Scope of This Repository
 ## Canonical References
