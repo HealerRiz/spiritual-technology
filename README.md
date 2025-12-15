@@ -15,4 +15,18 @@ Diagnostic Intuitive Healing (DIH) and Advanced Energy Manipulation (AEM) are or
 Corrective execution is governed by lawful authority and is not performed through channeling, ritual or personal power assertion.
 
 ## Scope of This Repository
+This repository documents the Spiritual Technology framework as an applied system architecture. It defines terminology, lineage, authority boundaries, and methodological structure governing Diagnostic Intuitive Healing (DIH) and Advanced Energy Manipulation (AEM).
+
+The scope includes:
+
+Formal definitions and system boundaries
+
+Conceptual and operational lineage from Inner Alchemy to applied methodologies
+
+Authority, governance, and exclusion criteria (non-channeling, non-ritual, non-belief based)
+
+Canonical references to published research and technical documentation
+
+This repository does not contain client case work, personal narratives, ritual instructions, or experiential claims. It functions as a structural and reference layer supporting academic indexing, technical clarity, and cross-platform authority alignment.
+
 ## Canonical References
