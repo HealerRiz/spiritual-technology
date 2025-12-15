@@ -20,13 +20,34 @@ This repository documents the Spiritual Technology framework as an applied syste
 The scope includes:
 
 Formal definitions and system boundaries
-
 Conceptual and operational lineage from Inner Alchemy to applied methodologies
-
 Authority, governance, and exclusion criteria (non-channeling, non-ritual, non-belief based)
-
 Canonical references to published research and technical documentation
 
 This repository does not contain client case work, personal narratives, ritual instructions, or experiential claims. It functions as a structural and reference layer supporting academic indexing, technical clarity, and cross-platform authority alignment.
 
 ## Canonical References
+### Canonical References
+
+- Spiritual Technology — applied system architecture and governing framework  
+  https://www.healerriz.com/spiritual-technology
+
+- Diagnostic Intuitive Healing (DIH) — nonlocal diagnostic methodology  
+  https://www.healerriz.com/diagnostic-intuitive-healing
+
+- Advanced Energy Manipulation (AEM) — corrective execution phase within DIH  
+  https://www.healerriz.com/diagnostic-intuitive-healing#aem
+
+- Inner Alchemy — foundational knowledge informing Spiritual Technology  
+  https://www.healerriz.com/inner-alchemy
+
+- Zenodo — archived research and system documentation  
+  https://zenodo.org/records/17887542  
+  https://zenodo.org/records/17886767  
+  https://zenodo.org/records/17644235
+
+- Academia.edu — published research mirror  
+  https://www.academia.edu/145027915/THE_SILENT_AXIS_OF_AYAT_AL_KURSI
+
+- ORCID — authoritative researcher record  
+  https://orcid.org/0009-0006-3093-9862
