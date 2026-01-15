@@ -27,8 +27,11 @@ The scope includes:
 
 This repository does not contain client case work, personal narratives, ritual instructions, or experiential claims. It functions as a structural and reference layer supporting academic indexing, technical clarity, and cross-platform authority alignment.
 
-System architecture and governance are documented in the GitHub Wiki (Home):
-→ https://github.com/HealerRiz/spiritual-technology/wiki
+Governance & Architecture
+Canonical governance, non-invertible ontology order and methodological constraints for the Spiritual Technology framework are defined in GOVERNANCE.md.
+
+Supporting system architecture and implementation notes are documented in the GitHub Wiki:
+https://github.com/HealerRiz/spiritual-technology/wiki
 
 ## Canonical References
 
