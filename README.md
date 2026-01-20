@@ -59,15 +59,29 @@ https://github.com/HealerRiz/spiritual-technology/wiki
 - **Inner Alchemy** — foundational knowledge informing Spiritual Technology  
   https://www.healerriz.com/inner-alchemy
 
-### Research Archive (Zenodo)
+### Research Archive (Zenodo) — Canonical Set
 
-Archived research and system documentation:
+The following Zenodo records constitute the authoritative public research archive and must remain 1:1 aligned with this repository’s corpus map:
 
-- https://zenodo.org/records/17644235
-- https://zenodo.org/records/17886767
-- https://zenodo.org/records/17887542
-- https://zenodo.org/records/18191760
-- https://zenodo.org/records/18203390
+- **Spiritual Technology — Canonical Papers v1.0**  
+  Zenodo Record: 18203390  
+  https://zenodo.org/records/18203390
+
+- **From Manifestation to Mechanism: How Lawful Energy Configuration Produces Physical Reality**  
+  Zenodo Record: 18191760  
+  https://zenodo.org/records/18191760
+
+- **Diagnostic Intuitive Healing & Advanced Energy Manipulation: The Precision Analysis System**  
+  Zenodo Record: 17887542  
+  https://zenodo.org/records/17887542
+
+- **Generational Trauma, Ancestral Curses & Lineage Healing**  
+  Zenodo Record: 17886767  
+  https://zenodo.org/records/17886767
+
+- **THE SILENT AXIS OF AYAT AL-KURSI: A Structural Analysis of the Verse's Central Meaning and Hidden Architecture**  
+  Zenodo Record: 17644235  
+  https://zenodo.org/records/17644235
 
 ### Research Mirrors & Identity
 
