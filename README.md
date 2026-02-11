@@ -75,7 +75,7 @@ The following Zenodo records constitute the authoritative public research archiv
   Zenodo Record: 17887542  
   https://zenodo.org/records/17887542
 
-- Parasympathetic Regulation, Vagal Signaling and the Structural Origin of Chronic Pain
+- **Parasympathetic Regulation, Vagal Signaling and the Structural Origin of Chronic Pain**
   Zenodo Record: 18601736
   https://zenodo.org/records/18601736
 
