@@ -79,7 +79,7 @@ The following Zenodo records constitute the authoritative public research archiv
   Zenodo Record: 18601736
   https://zenodo.org/records/18601736
 
-  - **From Awakening to Volatility: The Emotional Threshold Shift in Intensive Breathwork Practice — The Annihilation of Emotional Buffering**  
+- **From Awakening to Volatility: The Emotional Threshold Shift in Intensive Breathwork Practice — The Annihilation of Emotional Buffering**  
   Zenodo Record: 18791739  
   https://zenodo.org/records/18791739
 
