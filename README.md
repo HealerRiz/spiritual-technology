@@ -95,7 +95,8 @@ The following Zenodo records constitute the authoritative public research archiv
 
 - **Fragments of Forgotten Creations: The Absence of Evidence Is Not Evidence of Absence**  
   Published 2026  
-  ISBN: 979-8-9966939-0-0  
+  ISBN: 979-8-9966939-0-0
+  DOI: https://doi.org/10.17613/8wd5q-hhg12
   An evidence-led investigation into ancient civilizations, pre-Adamic history, archaeology, sacred literature, human origins, megalithic structures, submerged landscapes and forgotten knowledge traditions.  
   Official Book Page: https://www.healerriz.com/fragments-of-forgotten-creations  
   Amazon: https://a.co/d/091TJlmO
