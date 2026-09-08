@@ -91,6 +91,14 @@ The following Zenodo records constitute the authoritative public research archiv
   Zenodo Record: 17644235  
   https://zenodo.org/records/17644235
 
+  - **One Finger, One God: The Human Act of Testifying to Divine Oneness**  
+  Zenodo Record: 22103801  
+  https://zenodo.org/records/22103801
+
+- **ADHD: Rise of the SuperBrain**  
+  Zenodo Record: 22313406  
+  https://zenodo.org/records/22313406
+
 ### Books & Long-Form Research
 
 - **Fragments of Forgotten Creations: The Absence of Evidence Is Not Evidence of Absence**  
